@@ -14,5 +14,5 @@
   "vars": {
     "PUBLIC_SERVER_API_URL": "https://sky.shiiyu.moe/api/",
     "PUBLIC_API_URL": "https://sky.shiiyu.moe/api/"
-  }
+  },"name": "skycrypt-cf"
 }
